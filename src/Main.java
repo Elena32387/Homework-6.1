@@ -8,7 +8,7 @@ public class Main {
         checkYear(2024);
         checkYear(2014);
 
-        defineAppVersion(0, 2011);
+        defineAppVersion(0, 2019);
         defineAppVersion(1,2024);
 
         System.out.println("Количество дней доставки "+ cardDeliveryDays(15));
